@@ -1,0 +1,5 @@
+{
+  "name": "@rt-collab/shared",
+  "version": "0.1.0",
+  "main": "src/ot/index.js"
+}
