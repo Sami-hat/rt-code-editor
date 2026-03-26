@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@rt-collab/shared": "*"
+    "@rt-collab/shared": "*",
+    "@rt-collab/server": "*"
   }
 }

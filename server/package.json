@@ -1,0 +1,9 @@
+{
+  "name": "@rt-collab/server",
+  "version": "0.1.0",
+  "private": true,
+  "main": "src/ot/index.js",
+  "dependencies": {
+    "@rt-collab/shared": "*"
+  }
+}
